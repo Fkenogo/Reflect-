@@ -1,0 +1,7 @@
+{
+  "name": "Reflect: Neville Goddard Study Companion",
+  "description": "A private, long-term study and reflection companion based exclusively on the teachings of Neville Goddard, featuring structured knowledge retrieval, conversational AI, and deep analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
